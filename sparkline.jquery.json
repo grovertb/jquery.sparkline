@@ -10,7 +10,8 @@
         "graphs",
         "sparklines",
         "ui",
-        "vml"
+        "vml",
+        "grovertb"
     ],
     "version": "2.1.2",
     "author": {
