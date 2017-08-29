@@ -1,6 +1,6 @@
 {
-    "name": "sparkline",
-    "title": "jQuery Sparkline",
+    "name": "sparklinejs",
+    "title": "jQuery Sparklinejs",
     "description": "Easily generate small, inline sparkline charts directly in the browser",
     "keywords": [
         "canvas",
